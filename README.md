@@ -29,3 +29,6 @@ SpringBoot+Mysql+Vue3+WebSocket+Redis+ElementUI
 ### 工具类
 
 #### git
+
+git.init -> git add -> git commit -> git push
+
