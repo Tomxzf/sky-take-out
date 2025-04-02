@@ -23,3 +23,9 @@ SpringBoot+Mysql+Vue3+WebSocket+Redis+ElementUI
 - ![image-20240426195959737](./image/image-20240426195959737.png)
 - ![image-20240426200014740](./image/image-20240426200014740.png)
 - ![image-20240426200102763](./image/image-20240426200102763.png)
+
+## 项目相关知识点
+
+### 工具类
+
+#### git
