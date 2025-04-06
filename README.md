@@ -26,9 +26,36 @@ SpringBoot+Mysql+Vue3+WebSocket+Redis+ElementUI
 
 ## 项目相关知识点
 
+### 数据流向
+
+
+
+
+
+
 ### 工具类
 
 #### git
 
 git.init -> git add -> git commit -> git push
+
+### nginx
+
+![img.png](img.png)
+
+nginx的优点
+
+1.提高访问速度
+2.负载均衡（将大量的请求均衡的平分给服务器群中的服务器）
+
+
+### md5加密
+
+密码在数据库中明文存储有风险，对密码进行加密
+
+### JWT 令牌
+
+
+### Thread
+用户端发起的每一次请求，都是一个线程
 
